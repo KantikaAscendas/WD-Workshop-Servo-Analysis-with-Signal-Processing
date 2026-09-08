@@ -35,8 +35,8 @@ The Agentic AI exercise also requires Git, a supported AI coding agent, the acco
 | File | Purpose |
 | --- | --- |
 | `sample_servo_data.csv` | Educational sample data used by the servo exercises |
+| `WD_Mechanical_CSV_App_Workshop.m` | Mechanical-team Live Script demonstrating CSV import, preprocessing with Live Tasks, before-and-after comparison, Data Cleaner, Signal Analyzer, Filter Designer, and the path toward a customized App Designer application |
 | `WD_Servo_Signal_Control_Workshop.m` | App-first signal-processing and control workshop Live Script |
-| `WDSignalExplorer.mlapp` | Example App Designer application for CSV signal exploration |
 | `WD_Agentic_AI_Toolkit_and_Skills_Workshop.m` | Toolkit installation, connection checks, and guided AI prompt labs |
 
 Additional presenter or internal preparation files may not be included in the participant repository.
@@ -55,8 +55,10 @@ Then:
 1. Start MATLAB.
 2. Set the repository folder as the MATLAB Current Folder.
 3. Confirm that `sample_servo_data.csv` is visible.
-4. Open `WD_Servo_Signal_Control_Workshop.m` in the Live Editor.
-5. Run one section at a time and follow the instructions for each MATLAB app.
+4. Mechanical participants can open `WD_Mechanical_CSV_App_Workshop.m` to explore data preprocessing with Live Tasks and MATLAB apps.
+5. Servo participants can open `WD_Servo_Signal_Control_Workshop.m` to explore signal-processing and control workflows.
+6. Open `WD_Agentic_AI_Toolkit_and_Skills_Workshop.m` for toolkit setup and guided prompt exercises.
+7. Run one section at a time and follow the instructions for each Live Task or MATLAB app.
 
 Do not change the supplied CSV during the workshop. Save participant-generated files with a new name.
 
