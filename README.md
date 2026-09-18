@@ -27,7 +27,6 @@ Corporate proxy or security policies may require help from your IT team for Part
 | `WD_Lab_Signal_Data.xlsx` | Part 1 (optional) | The same data as an Excel workbook (sheet `Signal`), for teams that prefer Excel |
 | `WDSignalExplorer.mlapp` | Part 1, step 10 | Example App Designer app that loads a CSV, plots time/frequency views, reports RMS and peak-to-peak, and exports a processed CSV |
 | `WD_Agentic_AI_Toolkit_and_Skills_Workshop.m` | Part 2 | Toolkit installation, connection check, prompt Labs A–E, and a review step |
-| `WD_Create_Labfile_Signal_Data.m` | – | Generator that produced the sample data. Not needed during the workshop |
 
 Files you create during the workshop (for example `WD_Lab_Prepared_Signal.csv` and your saved `.mlx`) are written next to these files. Do not modify the supplied CSV/XLSX; save your own results under new names.
 
