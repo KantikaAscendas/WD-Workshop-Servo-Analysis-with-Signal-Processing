@@ -16,7 +16,7 @@ All data in this repository is **synthetic teaching data**. It is not measured W
 | Statistics and Machine Learning Toolbox | – | Lab D (predictive model) only |
 | Git, a supported AI coding agent and its account, internet access | – | Required |
 
-Simulink and Simscape are not used. Corporate proxy or security policies may require help from your IT team for Part 2.
+Corporate proxy or security policies may require help from your IT team for Part 2 Agentic AI
 
 ## Files in this folder
 
